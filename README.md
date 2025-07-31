@@ -17,7 +17,7 @@ Transcribe calls, extract decisions, action items, and generate follow-up emails
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meeting-extractor.git
+git clone https://github.com/Ahmad-Khalil-LEEA/meeting-extractor.git
 cd meeting-extractor
 ```
 
